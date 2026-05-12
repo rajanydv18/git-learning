@@ -1,4 +1,4 @@
 # git-learning
-my repository
+My Repository!
 <br>
-my name is Rajan Yadav. 
+My name is Rajan Yadav. 
